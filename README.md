@@ -2,7 +2,7 @@
 
 This course will be taught at The European Summer School on Artificial Intelligence (ESSAI'26) https://essai2026.eu/.
 
-## Teacher: Indrė Žliobaitė, Professor, University of Helsinki
+### Teacher: Indrė Žliobaitė, Professor, University of Helsinki
 
 The course offers an introduction to trustworthy AI, focusing on the technical perspectives that allow addressing current ethical issues related to using AI in decision support in commerce or the public sector. The first lecture covers the fundamentals of trustworthiness in human versus machine-learned decision making, as well as explainable AI. The following two lectures delve into fairness-aware ML, focusing on the challenges of computationally defining and measuring fairness, and provide a gentle introduction to algorithmic solutions for enforcing fairness. The final lecture focuses on the principles of causal ML and discusses challenges and opportunities in using AI for knowledge discovery in science, including the humanities. The course focuses on major design principles rather than detailed mathematical theory and is aimed at an interdisciplinary audience. There are no formal prerequisites. The course is partially based on the master's-level course taught at the University of Helsinki over the last five years.
 
