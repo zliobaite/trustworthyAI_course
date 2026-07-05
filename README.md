@@ -1,6 +1,6 @@
 # Trustworthy AI course at ESSAI'26
 
-This course will be taught at The European Summer School on Artificial Intelligence (ESSAI'26) https://essai2026.eu/.
+This course will be taught at [The European Summer School on Artificial Intelligence](https://essai2026.eu/) (ESSAI'26).
 
 ### Teacher: Indrė Žliobaitė, Professor, University of Helsinki
 
