@@ -14,7 +14,7 @@ The course focuses on major design principles and concepts and is aimed at an in
 What is intelligence? Is current AI intelligent? Can we trust AI? 
 AI in decision support. A case study. Explainablity and explainable AI. Legal contexts and requirements for explainability. 
 
-[SLIDES](trustworthyAI_ESSAI_Lec1_online.pdf)
+Lec1 slides can be found in the file repo above. 
 
 ### Lecture 2: fairness I
 
