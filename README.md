@@ -22,6 +22,8 @@ Definitions and history of fairess. Links to philosophy of fairness.
 Challenges and misconceptions regarding AI-based decision making and fairness. 
 Redlining. Intro to measuring fairness with toy examples. 
 
+[SLIDES](https://github.com/zliobaite/trustworthyAI_course/blob/56b2902b1d4f85796952d11ed2ff2926325a108c/Lec2_slides_online.pdf)
+
 ### Lecture 3: fairness II
 
 Continuing on measuring fairness. Detailed measuring examples on the whiteboard. 
