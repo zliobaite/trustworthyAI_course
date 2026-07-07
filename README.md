@@ -2,7 +2,7 @@
 
 ## Updates ##
 
-If the slides do not load directly from the menu, try to update the cache or using the links below.
+\textcolor{red}{If the slides do not load directly from the menu, try to update the cache or using the links below.}
 
 [SLIDES Lec 1](https://github.com/zliobaite/trustworthyAI_course/blob/6219eda32dbf9cd9231d0397fba87fe41ae0f660/Lec1_slides_online.pdf)
 
