@@ -2,6 +2,10 @@
 
 This course will be taught at [The European Summer School on Artificial Intelligence](https://essai2026.eu/) (ESSAI'26).
 
+[SLIDES Lec 1](https://github.com/zliobaite/trustworthyAI_course/blob/6219eda32dbf9cd9231d0397fba87fe41ae0f660/Lec1_slides_online.pdf)
+[SLIDES Lec 2]()
+SLIDES Lec 3
+
 ### Teacher: Indrė Žliobaitė, Professor, University of Helsinki
 
 The course offers an introduction to trustworthy AI, focusing on the technical perspectives that allow addressing current ethical issues related to using AI in decision support in commerce or the public sector. The first lecture covers the fundamentals of trustworthiness in human versus machine-learned decision making, as well as explainable AI. The following two lectures delve into fairness-aware ML, focusing on the challenges of computationally defining and measuring fairness, and provide a gentle introduction to algorithmic solutions for enforcing fairness. The final lecture focuses on the principles of causal ML and discusses challenges and opportunities in using AI for knowledge discovery in science, including the humanities. 
@@ -14,28 +18,21 @@ The course focuses on major design principles and concepts and is aimed at an in
 What is intelligence? Is current AI intelligent? Can we trust AI? 
 AI in decision support. A case study. Explainablity and explainable AI. Legal contexts and requirements for explainability. 
 
-[SLIDES](https://github.com/zliobaite/trustworthyAI_course/blob/6219eda32dbf9cd9231d0397fba87fe41ae0f660/Lec1_slides_online.pdf)
-
 ### Lecture 2: fairness I
 
 Definitions and history of fairess. Links to philosophy of fairness. 
 Challenges and misconceptions regarding AI-based decision making and fairness. 
-Redlining. Intro to measuring fairness with toy examples. 
-
-[SLIDES](https://github.com/zliobaite/trustworthyAI_course/blob/56b2902b1d4f85796952d11ed2ff2926325a108c/Lec2_slides_online.pdf)
+Redlining. Intro to measuring fairness with toy examples. Contradictions between different fairness measures and ways forward.
 
 ### Lecture 3: fairness II
 
-Continuing on measuring fairness. Detailed measuring examples on the whiteboard. 
-Contradictions between different fairness measures and ways forward.
-Types of algorithmic solutions for enforcing fairness with conceptual examples. 
-Why unbiased computational processes can lead to discriminative decision procedures. Ways worward.
+Continuing on measuring fairness. Types of algorithmic solutions for enforcing fairness with conceptual examples. 
+Why unbiased computational processes can lead to discriminative decision procedures. City of Amsterdam case. Ways forward.
 
 ### Lecture 4: causality, AI for science
 Introduction to causality-aware ML. Definitions of causality. Conditions for causal reasoning using ML. 
 Reichenbach’s common cause principle. Very brief intro to the Do-calculus with a toy example. 
-AI for science – challenges and opportunities. Examples from digital humanities. 
-A case study in analysing climate change and predicting global vegetation 80 years from now. Ways forward.
+AI for science – challenges and opportunities with examples from climate modelling. Ways forward.
 
 ## Target audience
 
