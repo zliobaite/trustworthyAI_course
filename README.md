@@ -8,7 +8,9 @@
 
 [SLIDES Lec 2](https://github.com/zliobaite/trustworthyAI_course/blob/bd1ed01a6d59d63db804815b2641cf456d9b949b/Lec2_slides_online.pdf)
 
-SLIDES Lec 3
+[SLIDES Lec 3](https://github.com/zliobaite/trustworthyAI_course/blob/e17f622193e2e6c9af6e78ff25d0e1e4302d1732/Lec3_slides_online.pdf)
+
+SLIDES Lec 4
 
 ### About ###
 
