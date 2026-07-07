@@ -1,12 +1,18 @@
 # Trustworthy AI course at ESSAI'26
 
-This course will be taught at [The European Summer School on Artificial Intelligence](https://essai2026.eu/) (ESSAI'26).
+## Updates ##
+
+If the slides do not load directly from the menu, try to update the cache or using the links below.
 
 [SLIDES Lec 1](https://github.com/zliobaite/trustworthyAI_course/blob/6219eda32dbf9cd9231d0397fba87fe41ae0f660/Lec1_slides_online.pdf)
 
 [SLIDES Lec 2](https://github.com/zliobaite/trustworthyAI_course/blob/bd1ed01a6d59d63db804815b2641cf456d9b949b/Lec2_slides_online.pdf)
 
 SLIDES Lec 3
+
+### About ###
+
+This course will be taught at [The European Summer School on Artificial Intelligence](https://essai2026.eu/) (ESSAI'26).
 
 ### Teacher: Indrė Žliobaitė, Professor, University of Helsinki
 
