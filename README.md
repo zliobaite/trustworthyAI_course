@@ -10,7 +10,7 @@
 
 [SLIDES Lec 3](https://github.com/zliobaite/trustworthyAI_course/blob/e17f622193e2e6c9af6e78ff25d0e1e4302d1732/Lec3_slides_online.pdf)
 
-SLIDES Lec 4
+[SLIDES Lec 4](https://github.com/zliobaite/trustworthyAI_course/blob/8e8dca9d86f703b85cf1ba441eb83479751ea342/Lec4_slides_online.pdf)
 
 ### About ###
 
